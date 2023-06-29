@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-color: #000;
+}
+.card{
+    max-width: 700px;
+    margin: 50px auto;
+    box-shadow: 0 0 50px #ffffffa0;
+}
+.card-header{
+    background-color: rgb(57, 90, 71);
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: rgb(29, 61, 9);
+    box-shadow: 0 0 20px #3ce615a5;
+}
+.nav-pills .nav-link {
+    color: antiquewhite;
+}
+.nav-link:focus, .nav-link:hover{
+    color: #45f311;
+}
+.card-body{
+    background: url(./img/ほめのび@背景イラストレーター\ on\ Twitter\ \(1\).png);
+    background-size: cover;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.modal-content{
+    box-shadow: 0 0  30px #f2f2f28a;
+    border-radius: 0px;
+    background-color: #8d7b7b;
+    border: 3px solid #ffffff;
+}
+.modal-body{
+    background-color: #b0b3b0;
+}
+.card-title{
+    color: azure;
+    text-shadow:0 0 20px #7d0101;
+}
+p {
+    color: rgb(255, 255, 255);
+    text-shadow:0 0 20px #860303;
+}
+.btn-primary{
+    background-color: #346625;
+    border: 1px solid #92f40a;
+}
+.btn-primary:hover{
+    background-color:  #80ca1a;
+    border: 1px solid #346625;
+}
+.fs-5{
+    margin: 0 0 0 210px ;
+}
+.modal-body__block {
+    margin-top: 10px;
+    background-color: #467039;
+    border: 2px solid #264a24;
+}
+
+.modal-body__block-box__img {
+    width: 300px;
+    margin-top: 50px;
+}
+.modal-body__block-box__text {
+    padding: 10px;
+    color: #000;
+    border: 2px solid #1e6533;
+}
+.material-symbols-outlined{
+    border: 2px solid #2c06e9;
+}
+.btn{
+    margin: 0 auto;
+}
+.button.btn.btn-secondary{
+    background-color: blueviolet;
+}      
+
+
+
+
+
+
+.form-select{
+    width: 500px;
+    margin: 200px 500px 0px 500px;
+}
